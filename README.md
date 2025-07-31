@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Guilherme Luco Martins, and I am a PhD candidate at the University of São Paulo.
+
+Currently, I am investigating the role of soil microbial communities in different land-use systems in the Amazon region, with a primary focus on agroforestry systems.
 <!--
 **guilhermeluciomartins/guilhermeluciomartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
